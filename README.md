@@ -1,4 +1,4 @@
 # MLCNS
-Machine Learning in LG CNS
+Machine Learning Study Group in LG CNS
 
-I am testing make and commit changes
+Welcome! this github repository
